@@ -1,0 +1,280 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Infrastructure.Persistence/Infrastructure.Persistence.csproj": {}
+  },
+  "projects": {
+    "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/App.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/App.Contracts.csproj",
+        "projectName": "App.Contracts",
+        "projectPath": "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/App.Contracts.csproj",
+        "packagesPath": "/Users/Vlad/.nuget/packages/",
+        "outputPath": "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Vlad/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Domain/Domain.csproj": {
+                "projectPath": "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Domain/Domain.csproj",
+        "packagesPath": "/Users/Vlad/.nuget/packages/",
+        "outputPath": "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Vlad/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Infrastructure.Persistence/Infrastructure.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Infrastructure.Persistence/Infrastructure.Persistence.csproj",
+        "projectName": "Infrastructure.Persistence",
+        "projectPath": "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Infrastructure.Persistence/Infrastructure.Persistence.csproj",
+        "packagesPath": "/Users/Vlad/.nuget/packages/",
+        "outputPath": "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Infrastructure.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Vlad/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/App.Contracts.csproj": {
+                "projectPath": "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/App.Contracts.csproj"
+              },
+              "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Domain/Domain.csproj": {
+                "projectPath": "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Domain/Domain.csproj"
+              },
+              "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Infrastructure.Provider/Infrastructure.Provider.csproj": {
+                "projectPath": "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Infrastructure.Provider/Infrastructure.Provider.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Infrastructure.Provider/Infrastructure.Provider.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Infrastructure.Provider/Infrastructure.Provider.csproj",
+        "projectName": "Infrastructure.Provider",
+        "projectPath": "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Infrastructure.Provider/Infrastructure.Provider.csproj",
+        "packagesPath": "/Users/Vlad/.nuget/packages/",
+        "outputPath": "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Infrastructure.Provider/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Vlad/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/App.Contracts.csproj": {
+                "projectPath": "/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/App.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

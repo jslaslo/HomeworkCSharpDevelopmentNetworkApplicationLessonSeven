@@ -1,0 +1,12 @@
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Domain/bin/Debug/net7.0/Domain.dll
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Domain/obj/Debug/net7.0/Domain.dll
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Domain/obj/Debug/net7.0/ref/Domain.dll

@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{CD095BD7-6DCD-4E61-9779-7004912294FE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core/ChatClient.cs">
+    <Files>
+      <File FileName="App/Program.cs" />
+      <File FileName="Core/ChatClient.cs" Line="51" Column="1" />
+      <File FileName="Infrastructure.Persistence/Context/ChatContext.cs" />
+      <File FileName="Core/ChatBase.cs" />
+      <File FileName="App.Contracts/Message.cs" />
+      <File FileName="App.Contracts/User.cs" />
+      <File FileName="App.Contracts/Command.cs" />
+      <File FileName="App.Contracts/Extentions/MessageExtentions.cs" />
+      <File FileName="Domain/MessageEntity.cs" />
+      <File FileName="Domain/UserEntity.cs" />
+      <File FileName="Infrastructure.Provider/IMessageSource.cs" />
+      <File FileName="Infrastructure.Provider/ReceiveResult.cs" />
+      <File FileName="Infrastructure.Provider/MessageSource.cs" />
+      <File FileName="Core/ChatServer.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Chat.v2.0" expanded="True">
+            <Node name="App" expanded="True" />
+            <Node name="App.Contracts" expanded="True">
+              <Node name="Extentions" expanded="True" />
+            </Node>
+            <Node name="Core" expanded="True">
+              <Node name="ChatClient.cs" selected="True" />
+            </Node>
+            <Node name="Domain" expanded="True" />
+            <Node name="Infrastructure.Persistence" expanded="True">
+              <Node name="Context" expanded="True" />
+            </Node>
+            <Node name="Infrastructure.Provider" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Core/ChatClient.cs" relfile="Core/ChatClient.cs" line="16" column="1" />
+      <Breakpoint file="/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Core/ChatClient.cs" relfile="Core/ChatClient.cs" line="46" column="1" />
+      <Breakpoint file="/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/Core/ChatClient.cs" relfile="Core/ChatClient.cs" line="87" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.App PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

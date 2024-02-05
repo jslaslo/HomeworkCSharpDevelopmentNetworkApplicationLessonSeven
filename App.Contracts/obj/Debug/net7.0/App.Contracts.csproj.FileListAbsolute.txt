@@ -1,0 +1,17 @@
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/obj/Debug/net7.0/App.Contracts.csproj.AssemblyReference.cache
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/obj/Debug/net7.0/App.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/obj/Debug/net7.0/App.Contracts.AssemblyInfoInputs.cache
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/obj/Debug/net7.0/App.Contracts.AssemblyInfo.cs
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/obj/Debug/net7.0/App.Contracts.csproj.CoreCompileInputs.cache
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/bin/Debug/net7.0/App.Contracts.deps.json
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/bin/Debug/net7.0/App.Contracts.runtimeconfig.json
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/bin/Debug/net7.0/App.Contracts.dll
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/bin/Debug/net7.0/App.Contracts.pdb
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/bin/Debug/net7.0/Domain.dll
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/bin/Debug/net7.0/Domain.pdb
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/obj/Debug/net7.0/App.Contracts.csproj.CopyComplete
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/obj/Debug/net7.0/App.Contracts.dll
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/obj/Debug/net7.0/refint/App.Contracts.dll
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/obj/Debug/net7.0/App.Contracts.pdb
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/obj/Debug/net7.0/App.Contracts.genruntimeconfig.cache
+/Users/Vlad/GeekBrains/NetworkApplicationDevelopment/Seminar/Chat.v2.0/Chat.v2.0/App.Contracts/obj/Debug/net7.0/ref/App.Contracts.dll
